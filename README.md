@@ -35,16 +35,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanh&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="vanh's GitHub Stats" height="180">
-  <img src="https://streak-stats.demolab.com/?user=vanh&theme=radical&hide_border=true" alt="vanh's Streak Stats" height="180">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanh&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="180">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanh&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide=stars,issues&show=reviews,prs_merged,prs_merged_percentage" alt="Commit Stats" height="180">
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanh&theme=redical&bg_color=0d1117&color=f85d7f&line=f85d7f&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="95%">
 </div>
 
@@ -61,14 +51,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vanh&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -80,17 +62,14 @@
 ## 📫 Kết nối với tôi
 
 <p align="center">
-  <a href="https://linkedin.com/in/vanh">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/vanh">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="/cdn-cgi/l/email-protection#7b0d1a15133b1e031a160b171e55181416">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
   <a href="https://github.com/vanh">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:vanh@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://facebook.com/vanh">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
 
