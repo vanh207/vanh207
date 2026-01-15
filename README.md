@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vanh&label=Profile%20views&color=0e75b6&style=flat" alt="vanh" />
-  <img src="https://img.shields.io/github/followers/vanh?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=vanh207&label=Profile%20views&color=0e75b6&style=flat" alt="vanh" />
+  <img src="https://img.shields.io/github/followers/vanh207?label=Followers&style=social" alt="followers" />
 </p>
 
 ---
