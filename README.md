@@ -65,12 +65,12 @@ const vanh = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vanh&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="vanh's GitHub Stats" height="180">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanh&theme=radical&hide_border=true" alt="vanh's Streak Stats" height="180">
+  <img src="https://streak-stats.demolab.com/?user=vanh&theme=radical&hide_border=true" alt="vanh's Streak Stats" height="180">
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanh&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="180">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vanh&theme=radical&utcOffset=7" alt="Productive Time" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=vanh&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide=stars,issues&show=reviews,prs_merged,prs_merged_percentage" alt="Commit Stats" height="180">
 </div>
 
 <div align="center">
@@ -79,6 +79,13 @@ const vanh = {
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vanh&theme=radical" alt="Profile Summary" width="95%">
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanh&theme=radical" height="180">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanh&theme=radical" height="180">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vanh&theme=radical" height="180">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vanh&theme=radical&utcOffset=7" height="180">
 </div>
 
 ---
