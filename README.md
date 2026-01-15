@@ -13,35 +13,6 @@
 
 ---
 
-## 🚀 Về tôi
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-```javascript
-const vanh = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "C++"],
-    askMeAbout: ["web dev", "tech", "app dev", "gaming"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vue", "Next.js"],
-            css: ["Tailwind", "Bootstrap", "Material UI"]
-        },
-        backEnd: {
-            js: ["Node", "Express", "Nest.js"],
-            python: ["Django", "Flask", "FastAPI"]
-        },
-        databases: ["MongoDB", "MySQL", "PostgreSQL"],
-        devOps: ["Docker", "CI/CD", "AWS", "Nginx"],
-        tools: ["Git", "GitHub", "VS Code", "Figma"]
-    },
-    currentFocus: "Building awesome projects! 🚀",
-    funFact: "I debug with console.log() 🐛"
-};
-```
-
----
-
 ## 🛠️ Ngôn ngữ & Công cụ
 
 <p align="center">
@@ -102,19 +73,6 @@ const vanh = {
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
-## 💻 Dự án nổi bật
-
-<p align="center">
-  <a href="https://github.com/vanh/repo1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vanh&repo=repo1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/vanh/repo2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vanh&repo=repo2&theme=tokyonight&hide_border=true" />
-  </a>
 </p>
 
 ---
